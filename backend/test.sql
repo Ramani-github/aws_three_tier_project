@@ -42,7 +42,6 @@ CREATE TABLE `books` (
 INSERT INTO `books` (`id`, `title`, `desc`, `price`, `cover`) VALUES
 (1, 'Gamer of throne', 'this is an amazing book to read when you are free ', 2343.2, 'https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60'),
 (2, 'Fire folks', 'fire folks is ming blowing book to read it will blow your mind', 2342.3, 'https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80');
-(3,'World’s Greatest Classics','Collected in this box set are some endearing and enthralling stories that have gripped the imagination of people all over the world, for decades', 450.25'https://www.google.com/url?q=http://www.flipkart.com/world-s-greatest-classics/p/itmbe43ff95d9927%3Fpid%3D9789354401572%26lid%3DLSTBOK9789354401572JGICP7%26marketplace%3DFLIPKART%26cmpid%3Dcontent_book_8965229628_gmc&opi=95576897&sa=U&ved=0ahUKEwihpfOcg4SIAxXfp1YBHW8bKnwQrzwI-AI&usg=AOvVaw0L4BU4J41ems1pGnQzRS72');
 --
 -- Indexes for dumped tables
 --
